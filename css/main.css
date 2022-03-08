@@ -1,0 +1,17 @@
+body {
+  background-color: #31818b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.kotak {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+}/*# sourceMappingURL=main.css.map */

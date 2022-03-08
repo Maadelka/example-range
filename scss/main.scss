@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(49, 129, 139);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.kotak{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
